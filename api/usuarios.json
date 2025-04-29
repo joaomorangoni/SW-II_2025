@@ -1,22 +1,22 @@
 [
     {
         "id": 1,
-        "nome": "Maria Souza",
-        "email": "maria@email.com"
+        "nome": "Mario",
+        "email": "mario@email.com"
     },
     {
         "id": 2,
-        "nome": "João Silva",
+        "nome": "João Pedro",
         "email": "joao@email.com"
     },
     {
         "id": 3,
-        "nome": "Fulano Novo",
-        "email": "fulano@email.com"
+        "nome": "Sérgio",
+        "email": "sergio@email.com"
     },
     {
         "id": 3,
-        "nome": "Fulano Novo",
-        "email": "fulano@email.com"
+        "nome": "Cláudio",
+        "email": "claudio@email.com"
     }
 ]
